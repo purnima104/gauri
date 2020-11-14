@@ -1,2 +1,3 @@
 # angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+Hi im gauri goyanka.
+Im in 7th standard
